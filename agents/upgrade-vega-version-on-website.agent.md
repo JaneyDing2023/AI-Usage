@@ -1,7 +1,7 @@
 ---
 name: upgrade-vega-version-on-website
 description: Use when you need to upgrade @heartlandone/vega-react in v2docs-app to a user-specified version, install dependencies, create an Azure DevOps PR, optionally add reviewers, and then start the local dev server.
-argument-hint: Provide target version (required) and optional reviewer list. Example: "Upgrade to 2.80.0, reviewers: user1@heartland.us user2@heartland.us".
+argument-hint: Provide target version (required) and optional reviewer list. Example "Upgrade to 2.80.0, reviewers user1@heartland.us user2@heartland.us".
 # tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.
 ---
 
